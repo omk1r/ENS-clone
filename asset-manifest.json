@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ENS-clone/static/css/main.faeb2b10.css",
+    "main.js": "/ENS-clone/static/js/main.81774048.js",
+    "static/js/787.cda612ba.chunk.js": "/ENS-clone/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/ENS-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ENS-clone/index.html",
+    "main.faeb2b10.css.map": "/ENS-clone/static/css/main.faeb2b10.css.map",
+    "main.81774048.js.map": "/ENS-clone/static/js/main.81774048.js.map",
+    "787.cda612ba.chunk.js.map": "/ENS-clone/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faeb2b10.css",
+    "static/js/main.81774048.js"
+  ]
+}
